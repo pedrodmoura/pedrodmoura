@@ -27,11 +27,6 @@
 <h2 align="center">❂ I'm Pedro Paulo </h2>
 
 <div align="center">
-  <!-- Profile Views -->
-  <a href="https://github.com/pedrodmoura" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=pedrodmoura&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" />
-  </a>
-  
   <!-- Total Stars -->
   <a href="https://github.com/pedrodmoura?tab=repositories&sort=stargazers" target="_blank">
     <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/pedrodmoura?style=for-the-badge&label=Stars&color=bf616a&logo=github" />
